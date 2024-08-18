@@ -62,8 +62,8 @@ I am an experienced data scientist specializing in machine learning, data analys
 
 ## Contact
 - **Email**: [shubhamlondhe01@gmail.com](mailto:shubhamlondhe01@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shubhamlondhe/)
-- **GitHub**: [Your GitHub Profile](https://github.com/shubhamlondhe96)
+- **LinkedIn**: [Linkedin.com/in/shubhamlondhe/](https://www.linkedin.com/in/shubhamlondhe/)
+- **GitHub**: [Github.com/shubhamlondhe96](https://github.com/shubhamlondhe96)
 
 ---
 
