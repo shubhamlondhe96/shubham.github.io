@@ -18,7 +18,7 @@ I am an experienced data scientist specializing in machine learning, data analys
 
 ## Experience
 
-### Data Scientist | [Schneide Solutions Pvt. Ltd., Trivendrum]
+### Data Scientist | [Schneide Solutions Pvt Ltd](https://www.schneideit.com/)
 *Pune* | *2022/01 – Present*
 - Developed and deployed machine learning models to predict customer behavior and optimize marketing strategies.
 - Led data analysis initiatives to extract actionable insights, which improved business decision-making.
