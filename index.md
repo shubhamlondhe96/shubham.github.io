@@ -19,13 +19,13 @@ I am an experienced data scientist specializing in machine learning, data analys
 ## Experience
 
 ### Data Scientist | [Schneide Solutions Pvt Ltd](https://www.schneideit.com/)
-*Pune* | *2022/01 – Present*
+*Pune* | *Jan 2022 – Present*
 - Developed and deployed machine learning models to predict customer behavior and optimize marketing strategies.
 - Led data analysis initiatives to extract actionable insights, which improved business decision-making.
 - Worked with cross-functional teams to build data pipelines and automate workflows for better efficiency.
   
-### Data Analyst | [Nvidia Graphics Pvt. Ltd., Pune]
-*Pune* | *2021/03 – 2021/09*
+### Data Analyst | [Nvidia Graphics Pvt Ltd](https://www.nvidia.com/en-in/)
+*Pune* | *April 2021 – Sept 2021*
 - Created visual dashboards for autonomous vehicle data, which enabled the real-time tracking of vehicle performance.
 - Analyzed large datasets to discover trends, patterns, and correlations that supported operational enhancements.
 
@@ -55,15 +55,15 @@ I am an experienced data scientist specializing in machine learning, data analys
 ---
 
 ## Qualifications
-- **Master’s Degree in Statistics** | [Shivaji University,Kolhapur], 2020
-- **Bachelor’s Degree in Statistics** | [Shivaji University,Kolhapur], 2018
+- **Master’s Degree in Statistics** | [Shivaji University,Kolhapur](https://www.unishivaji.ac.in/), 2020
+- **Bachelor’s Degree in Statistics** | [Shivaji University,Kolhapur](https://www.unishivaji.ac.in/), 2018
 
 ---
 
 ## Contact
 - **Email**: [shubhamlondhe01@gmail.com](mailto:shubhamlondhe01@gmail.com)
-- **LinkedIn**: [Linkedin.com/in/shubhamlondhe/](https://www.linkedin.com/in/shubhamlondhe/)
-- **GitHub**: [Github.com/shubhamlondhe96](https://github.com/shubhamlondhe96)
+- **LinkedIn**: [linkedin.com/in/shubhamlondhe/](https://www.linkedin.com/in/shubhamlondhe/)
+- **GitHub**: [github.com/shubhamlondhe96](https://github.com/shubhamlondhe96)
 
 ---
 
