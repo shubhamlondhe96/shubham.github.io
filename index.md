@@ -5,7 +5,7 @@ Welcome to my professional website! Here, you will find details about my career,
 ---
 
 ## About Me
-I am an experienced data scientist specializing in machine learning, data analysis, and data visualization. My passion lies in solving complex problems using data-driven insights to create tangible results. Over the years, I have worked on various data science projects that involve predictive modeling, statistical analysis, and creating intuitive visualizations.
+I am an experienced data scientist with 3+ years of experience specializing in machine learning, data analysis, and data visualization. My passion lies in solving complex problems using data-driven insights to create tangible results. Over the years, I have worked on various data science projects that involve predictive modeling, statistical analysis, and creating intuitive visualizations.
 
 ---
 
@@ -68,7 +68,7 @@ I am an experienced data scientist specializing in machine learning, data analys
 ---
 
 ## Resume
-You can view or download my [Resume](resume.pdf).
+You can view or download my [Resume](resume_shubham.pdf).
 
 ---
 
